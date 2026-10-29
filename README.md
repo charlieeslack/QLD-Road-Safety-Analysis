@@ -116,7 +116,7 @@ The CSVs are not committed to this repo because of their size.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/charlieeslack/qld-road-crash-analysis.git
+git clone https://github.com/charlieeslack/qld-road-safety-analysis.git
 cd qld-road-crash-analysis
 
 # 2. Download the CSVs listed above and move them into nbs/
